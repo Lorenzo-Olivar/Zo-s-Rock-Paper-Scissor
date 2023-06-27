@@ -21,11 +21,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-Professional README Guide | The Full-Stack Blog
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+Professional README Guide | The Full-Stack Blog | https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
 
